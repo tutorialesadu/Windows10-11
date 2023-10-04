@@ -1,0 +1,2 @@
+rd /s "\\?\ following by the file location which you want to delete. In my case C:\Users\admin\Desktop\iso
+rd /s "\\?\C:\Users\admin\Desktop\iso
